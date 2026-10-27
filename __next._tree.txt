@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/164kpp4yxip-x.css","style"]
+:HL["/_next/static/chunks/0.teqj553t958.css","style"]
 :HL["/_next/static/media/52b5d5098cb87ddd-s.p.13ehjyjdqyy~v.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/81cef6a21128489e-s.p.0rb1wy2~c~egv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Archivo+Black&family=Playfair+Display:ital,wght@1,900&family=Bebas+Neue&family=Fraunces:opsz,wght@144,900&family=Unbounded:wght@800&family=DM+Serif+Display&family=Rubik+Mono+One&family=UnifrakturMaguntia&family=Syne:wght@800&family=Pacifico&family=Major+Mono+Display&family=Alfa+Slab+One&family=Ultra&family=Monoton&family=Bungee&family=Shrikhand&family=Lobster&family=Cinzel+Decorative:wght@900&family=Black+Ops+One&family=Poiret+One&family=Righteous&family=Dela+Gothic+One&family=Instrument+Serif:ital@1&text=S&display=block","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"yhebjcIaN46Kf-SwOOhnm"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7nkJOpSVj_XgHvumvtNpe"}
