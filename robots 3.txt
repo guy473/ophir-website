@@ -1,0 +1,3 @@
+# Internal presentation: not for search engines.
+User-agent: *
+Disallow: /
